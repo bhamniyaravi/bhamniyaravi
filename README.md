@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ravi Bhamniya! <br><br>Artificial Intelligence and Data Science Student | AI/ML Developer | Hackathon Leader**<br><br> Skills<br>Languages: Python, JavaScript, R  <br>AI/ML:LangChain, Pandas, NumPy  <br>Tools: Power BI, Tableau, Excel, SQL, Git  <br><br> Achievements<br>-  NexHack 2025 (GEETA University)  <br>- Hacknauts 2025 Participant (GNDEC Ludhiana)  <br>- 5-Day Linux Workshop Certificate  <br><br>---<br><br>Open to internships in AI/ML & Data Analytics!<br><br>LinkedIn : https://www.linkedin.com/in/ravi-bhamniya-4aa4aa34a/ |  <br>Gmail : ravi.bhamniya@email.com<br>
+Hi, I'm Ravi Bhamniya! <br><br>Artificial Intelligence and Data Science Student | AI/ML Developer | Hackathon Leader**<br><br> Skills<br>Languages: Python, JavaScript, R  <br>AI/ML:LangChain, Pandas, NumPy  <br>Tools: Power BI, Tableau, Excel, SQL, Git  <br><br> Achievements<br>-  NexHack 2025 (GEETA University)  <br>- Hacknauts 2025 Participant (GNDEC Ludhiana)  <br>- 5-Day Linux Workshop Certificate  <br><br>---<br><br>Open to internships in AI/ML & Data Analytics!<br><br>LinkedIn : https://www.linkedin.com/in/ravi-bhamniya-4aa4aa34a/ |  <br>Gmail : bhamniyaravi8@gmail.com.com<br>
 
 
 ## 🌐 Socials:

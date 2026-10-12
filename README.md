@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · BHAMNIYARAVI · LIVE</sub></p>
+<p><sub>PROFILE · BHAMNIYARAVI</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhamniyaravi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186559274%3Fv%3D4&variant=living-identity&label=Ravi&v=wow-living-identity-1&mode=light" />
@@ -17,7 +17,7 @@
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Jupyter Notebook` · `Python` · `TypeScript`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> Jupyter Notebook · Python · AI</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
 <td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>7</strong> repos<br /><strong>0</strong> stars<br /><strong>31</strong> contributions<br /><strong>2</strong> followers</p></td>
 </tr>
 </table>
@@ -98,5 +98,5 @@
   <img src="https://www.gitskins.com/api/section/social?username=bhamniyaravi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186559274%3Fv%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Ravi contact links" />
 </picture>
 <p><a href="https://github.com/bhamniyaravi">GitHub</a></p>
-<p><sub>Ravi · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><sub>· Ravi ·</sub></p>
 </div>

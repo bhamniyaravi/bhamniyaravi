@@ -6,8 +6,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=bhamniyaravi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186559274%3Fv%3D4&variant=living-identity&label=Ravi&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=bhamniyaravi&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186559274%3Fv%3D4&variant=living-identity&label=Ravi&v=wow-living-identity-1&mode=dark" width="100%" alt="Ravi animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
+<p><strong>AI & Data Science Student · AI/ML Developer</strong> · the public internet</p>
+<p>Building AI-powered projects and learning by turning ideas into real-world solutions.</p>
 <p><a href="https://github.com/bhamniyaravi">GitHub</a></p>
 </div>
 

@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Ravi%20Bhamniya&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descSize=20&descAlignY=58&descColor=CBD5E1" width="100%" alt="Ravi Bhamniya banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:2563EB&amp;height=230&amp;section=header&amp;text=Ravi%20Bhamniya&amp;fontSize=58&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Science%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&amp;descSize=20&amp;descAlignY=58&amp;descColor=CBD5E1" width="100%" alt="Ravi Bhamniya banner />
 
 <a href="https://github.com/bhamniyaravi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Building+Agentic+AI+Systems;Developing+RAG+%26+LLM+Applications;Exploring+AI+Security+%26+Guardrails;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Turning+Ideas+into+Real-World+AI+Solutions" alt="Typing intro" />
